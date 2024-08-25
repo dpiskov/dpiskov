@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-![Dimitar Piskov's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpiskov&show_icons=true&theme=github_dark)
-
-
 ### GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dpiskov&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpiskov&theme=github_dark&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
+<a href="https://github.com/dpiskov">
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dpiskov&show_icons=true&theme=github_dark" />
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpiskov&layout=compact&theme=github_dark" />
+</a>
 
 <!--
 **dpiskov/dpiskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
