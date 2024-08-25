@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Dimitar Piskov's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpiskov)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **dpiskov/dpiskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
