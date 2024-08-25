@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Dimitar Piskov's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpiskov)](https://github.com/anuraghazra/github-readme-stats)
+![Dimitar Piskov's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpiskov&show_icons=true&theme=radical)
 
 
 <!--
