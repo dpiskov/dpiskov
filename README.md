@@ -2,10 +2,8 @@
 
 ### GitHub Stats
 <a href="https://github.com/dpiskov">
-  <img align="center" src="https://github-readme-stats-xi-lac-40.vercel.app/api?username=dpiskov&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/dpiskov">
-  <img align="center" src="https://github-readme-stats-xi-lac-40.vercel.app/api/top-langs?username=dpiskov&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats-xi-lac-40.vercel.app/api?username=dpiskov&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats-xi-lac-40.vercel.app/api/top-langs?username=dpiskov&layout=compact&theme=github_dark" />
 </a>
 
 <!--
