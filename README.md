@@ -7,12 +7,6 @@
 </a>
 
 <!--
-<a href="https://github.com/dpiskov">
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dpiskov&show_icons=true&theme=github_dark" />
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpiskov&layout=compact&theme=github_dark" />
-</a>
-
-<!--
 **dpiskov/dpiskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
